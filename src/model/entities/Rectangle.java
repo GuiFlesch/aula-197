@@ -2,7 +2,7 @@ package model.entities;
 
 import model.enums.Color;
 
-public class Rectangle extends Shape {
+public class Rectangle extends AbstractShape {
 
     public Double width;
     public Double height;
